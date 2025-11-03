@@ -1,3 +1,4 @@
 numpy
 tensorflow
 opencv-python
+keras>=3.12.0 # not directly required, pinned by Snyk to avoid a vulnerability
